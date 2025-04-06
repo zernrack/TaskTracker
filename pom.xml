@@ -12,7 +12,7 @@
 	<artifactId>TaskTracker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>TaskTracker</name>
-	<description>LMS Project for School</description>
+	<description>A TaskTracker App</description>
 	<url/>
 	<licenses>
 		<license/>
